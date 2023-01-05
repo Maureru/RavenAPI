@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "claire29",
+    "database": "social",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "freedb_macosenseii",
+    "password": "ubnnqHuh&8P#P*6",
+    "database": "freedb_ravens",
+    "host": "sql.freedb.tech",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "freedb_macosenseii",
+    "password": "ubnnqHuh&8P#P*6",
+    "database": "freedb_ravens",
+    "host": "sql.freedb.tech",
+    "dialect": "mysql"
+  }
+}
